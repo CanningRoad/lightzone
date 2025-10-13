@@ -1,3 +1,3 @@
-# Empty-web
+# Lightzone
 
-An emptier basic web page project
+Our microsite for <https://lightzone.uk>
